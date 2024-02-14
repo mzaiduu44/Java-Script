@@ -34,18 +34,36 @@
 
 // create two variable a and b assign value hand to hand and then apply all four math operation(+,-,*,/) adn assign to sum,sub,mul.div
 
-let a = 20;
-let b = 30;
-let sum,sub,mul,div;
-// Addition
-sum = a + b;
-console.log(sum)
-// Subtraction
-sub = a - b;
-console.log(sub)
-// Multiplication
-mul = a * b;
-console.log(mul)
-// Division
-div = a / b;
-console.log(div)
+// let a = 20;
+// let b = 30;
+// let sum,sub,mul,div;
+// // Addition
+// sum = a + b;
+// console.log(sum)
+// // Subtraction
+// sub = a - b;
+// console.log(sub)
+// // Multiplication
+// mul = a * b;
+// console.log(mul)
+// // Division
+// div = a / b;
+// console.log(div)
+
+let x = ("Zaid")
+let y = ("Muhammad")
+
+console.log(x + y);
+
+let a = ("Muhammad")
+let b = ("Zaid")
+
+console.log(a + " "+ b)
+
+let c = 55
+
+c++;
+c++;
+c--;
+c--;
+console.log(c)
